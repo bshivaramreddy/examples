@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bsrexamples.iml" filepath="$PROJECT_DIR$/bsrexamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bsrexamples_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bsrexamples_main.iml" group="bsrexamples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bsrexamples_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bsrexamples_test.iml" group="bsrexamples" />
+    </modules>
+  </component>
+</project>
